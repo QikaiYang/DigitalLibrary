@@ -1,5 +1,5 @@
-## Qikai's digital library
-This is Qikai's digital library on books of Goodreads based on scrappers. Current version of database supoorts 3 functions.
+## Digital Library
+This is a digital library on books of Goodreads based on scrappers. Current version of database supoorts 3 functions.
 1. Scraping data given user-specified number of books and authors (recommend less than 200 books and less than 50 authors)
 2. Export scrapped data
 3. Import a json file to the database
