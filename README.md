@@ -30,7 +30,7 @@ beautiful soup 4 and its dependency
 ### Step 2 - Download 
 You can choose to download the .zip file directly or use the command below to download the source files of the game
 ```
-git clone https://gitlab.engr.illinois.edu/qikaiy2/sp21-cs242-assignment2.git
+git clone https://github.com/QikaiYang/DigitalLibrary.git
 ```
 
 ### Step 3 - Execute
